@@ -11,5 +11,7 @@ public class DummyClassTest {
 		System.out.println("from second commit");
 		
 		System.out.println("from third commit");
+		
+		System.out.println("from fourth commit");
 	}
 }
